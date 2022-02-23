@@ -1,0 +1,448 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A list of the members return'd to serve in this present convocation on the sixth of November at St. Paul's, and from thence adjourned to chappel at Westminster, on the twentieth of the same month</title>
+            <author>Westminster Assembly</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48667</idno>
+            <idno type="STC">Wing L2458</idno>
+            <idno type="STC">ESTC R722</idno>
+            <idno type="EEBO-CITATION">13655670</idno>
+            <idno type="OCLC">ocm 13655670</idno>
+            <idno type="VID">101026</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48667)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101026)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 793:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A list of the members return'd to serve in this present convocation on the sixth of November at St. Paul's, and from thence adjourned to chappel at Westminster, on the twentieth of the same month</title>
+                  <author>Westminster Assembly</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Jacob Tonson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Westminster Assembly (1643-1652) --  Registers.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="list_of_convocation_members">
+            <pb facs="tcp:101026:1" rendition="simple:additions"/>
+            <head>A LIST OF THE MEMBERS Return'd to ſerve in this preſent <hi>CONVOCATION,</hi> Summon'd to meet on the Sixth of <hi>November</hi> at St. <hi>Paul's,</hi> and from thence Adjourned to <hi>HENRY</hi> the VII's <hi>Chappel</hi> at <hi>Weſtminſter,</hi> on the Twentieth of the ſame Month.</head>
+            <list>
+               <head>CANTERB<g ref="char:V">Ʋ</g>RY.</head>
+               <item>Dr. <hi>Tillotſon,</hi> Dean of <hi>Canterbury,</hi>
+               </item>
+               <item>Dr. <hi>Younger,</hi> Proctor of the Chapter.</item>
+               <item>Dr. <hi>Batteley,</hi> Archdeacon of <hi>Canterbury</hi>
+               </item>
+               <item>
+                  <hi>Dr.</hi> Thorp, Procur. Cleri.</item>
+               <item>
+                  <hi>Mr.</hi> Cook, Procur. Cleri.</item>
+            </list>
+            <list>
+               <head>LONDON.</head>
+               <item>Biſhop of <hi>Worceſter,</hi> Dean of St. <hi>Pauls.</hi>
+               </item>
+               <item>Dr. <hi>Stanley,</hi> Proctor for the Chapter,</item>
+               <item>Dr. <hi>Tenniſon,</hi> Archd. of <hi>London.</hi>
+               </item>
+               <item>Dr. <hi>Alſton,</hi> Archd. of <hi>Eſſex.</hi>
+               </item>
+               <item>Dr. <hi>Goodman,</hi> Archd. of <hi>Middleſex.</hi>
+               </item>
+               <item>Dr. <hi>Beveridge.</hi> Archd. of <hi>Colcheſter.</hi>
+               </item>
+               <item>Mr. <hi>Cole,</hi> Archd. of <hi>St. Albans.</hi>
+               </item>
+               <item>Dean of <hi>Windſor, Procur. Cleri.</hi>
+               </item>
+               <item>Dr. <hi>Grove, Procur. Cleri.</hi>
+               </item>
+            </list>
+            <list>
+               <head>WESTMINSTER.</head>
+               <item>Biſhop of <hi>Rocheſter,</hi> Dean of <hi>Weſtminſter,</hi>
+               </item>
+               <item>Dr. <hi>Pelling,</hi> Proctor for the Chapter,</item>
+               <item>Dr. <hi>Busby,</hi> Archdeacon.</item>
+            </list>
+            <list>
+               <head>WINCHESTER.</head>
+               <item>Dr. <hi>Meggott,</hi> Dean of <hi>Winton.</hi>
+               </item>
+               <item>Dr. <hi>Hawkins,</hi> Proctor for the Chapter.</item>
+               <item>Dr. <hi>Clutterbuck,</hi> Archd of <hi>Winton.</hi>
+               </item>
+               <item>Mr. <hi>Sawyer,</hi> Archd of <hi>Surrey.</hi>
+               </item>
+               <item>Dr. <hi>Hooper, Procur. Cleri.</hi>
+               </item>
+               <item>Dr. <hi>Harriſon, Procur. Cleri.</hi>
+               </item>
+            </list>
+            <list>
+               <head>WORCESTER.</head>
+               <item>Dr. <hi>Hicks,</hi> Dean of <hi>Worceſter.</hi>
+               </item>
+               <item>Dr. <hi>Hopkins.</hi> Proctor for the Chapter.</item>
+               <item>Mr. <hi>Fleetwood,</hi> Archdeacon of <hi>Worceſter.</hi>
+               </item>
+               <item>Dr. <hi>Hicks,</hi> Procur. Cleri.</item>
+               <item>Dr. <hi>Hopkins.</hi> Procur. Cleri.</item>
+               <item>Mr. <hi>Fleetwood,</hi> Procur. Cleri.</item>
+            </list>
+            <list>
+               <head>LINCOLN.</head>
+               <item>Dr. <hi>Brevint,</hi> Dean of <hi>Lincoln,</hi>
+               </item>
+               <item>Dr. <hi>Fuller,</hi> Proctor for the Chapter.</item>
+               <item>Cawly <hi>and</hi> Oldiſh, Archd. of <hi>Lincoln.</hi>
+               </item>
+               <item>Mr. <hi>Hutton,</hi> Archd. of <hi>Stow.</hi>
+               </item>
+               <item>Mr. <hi>Gery,</hi> Archd. of <hi>Bucks.</hi>
+               </item>
+               <item>Dr. <hi>Eaton,</hi> Archd. of <hi>Leiceſter.</hi>
+               </item>
+               <item>Dr. <hi>Hammond,</hi> Archd. of <hi>Huntingdon.</hi>
+               </item>
+               <item>Mr. <hi>Skelton,</hi> Archd. of <hi>Bedford.</hi>
+               </item>
+               <item>Mr. <hi>Edwards, Procur. Cleri.</hi>
+               </item>
+               <item>Dr. <hi>Gardiner, Procur. Cleri.</hi>
+               </item>
+            </list>
+            <list>
+               <head>SAR<g ref="char:V">Ʋ</g>M.</head>
+               <item>Dr. <hi>Pearce,</hi> Dean of <hi>Sarum.</hi>
+               </item>
+               <item>Dr. <hi>Woodward,</hi> Proctor for the Chapter.</item>
+               <item>Dr. <hi>Lambert,</hi> Archd. of <hi>Saram.</hi>
+               </item>
+               <item>Dr. <hi>Sharp,</hi> Archd. of <hi>Berks.</hi>
+               </item>
+               <item>Dr. <hi>Ward,</hi> Archd. of <hi>Wilts.</hi>
+               </item>
+               <item>Dr. <hi>Younger, Proc. Cleri.</hi>
+               </item>
+               <item>Dr. <hi>Wyat. Proc. Cleri.</hi>
+               </item>
+            </list>
+            <list>
+               <head>WINDSOR.</head>
+               <item>Dr. <hi>Haskard,</hi> Dean of <hi>Windſor.</hi>
+               </item>
+            </list>
+            <list>
+               <head>LITCHFIELD <hi>and</hi> COVENTRY.</head>
+               <item>Dr. <hi>Addiſon,</hi> Dean of <hi>Litchfield. Proc. Cap.</hi>
+               </item>
+               <item>Dean of the Church, Archd. of <hi>Coventry.</hi>
+               </item>
+               <item>Mr. <hi>Eliſon</hi> Archd. of <hi>Darby.</hi>
+               </item>
+               <item>Mr. <hi>Vaughan,</hi> Archd. of <hi>Salop.</hi>
+               </item>
+               <item>Mr. <hi>Aſhenhurſt,</hi> Archd. of <hi>Stafford.</hi>
+               </item>
+               <item>Mr. <hi>Kimberley, Proc. Cleri.</hi>
+               </item>
+               <item>Mr. <hi>Wills, Proc. Cleri.</hi>
+               </item>
+            </list>
+            <list>
+               <head>WOOLVERHAMTON.</head>
+               <item>Dr. <hi>Haskard,</hi> Dean of <hi>Woolverhamton, Proc. Cap.</hi>
+               </item>
+            </list>
+            <list>
+               <head>GLOCESTER.</head>
+               <item>Dr. <hi>Jane,</hi> Dean of <hi>Glouceſter.</hi>
+               </item>
+               <item>Mr. <hi>Duke,</hi> Proctor for the Chapter.</item>
+               <item>Dr. <hi>Hide,</hi> Archdeacon of <hi>Glouceſter.</hi>
+               </item>
+               <item>Dr. <hi>Gregory, Proc. Cleri.</hi>
+               </item>
+               <item>Dr. <hi>Parſons, Proc. Cleri.</hi>
+               </item>
+            </list>
+            <list>
+               <head>EXON.</head>
+               <item>Dr. <hi>Anneſly,</hi> Dean of <hi>Exon.</hi>
+               </item>
+               <item>Dr. <hi>Hooper, Proc. Cap.</hi>
+               </item>
+               <item>Dr. <hi>Lake,</hi> Archd. of <hi>Exon.</hi>
+               </item>
+               <item>Mr. <hi>Drewe,</hi> Archd. of <hi>Cornwall.</hi>
+               </item>
+               <item>Dr. <hi>Fulwood,</hi> Archd. of <hi>Totnes.</hi>
+               </item>
+               <item>Mr. <hi>Read,</hi> Archd. of <hi>Barum.</hi>
+               </item>
+               <item>Dr. <hi>James, Proc. Cler.</hi>
+               </item>
+               <item>Mr. <hi>Long, Proc. Cler.</hi>
+               </item>
+            </list>
+            <list>
+               <head>NORWICH.</head>
+               <item>Dr. <hi>Sharp,</hi> Dean of <hi>Norwich.</hi>
+               </item>
+               <item>Mr. <hi>Hodges,</hi> Proctor for the Chapter.</item>
+               <item>Dr. <hi>Conant,</hi> Archd. of <hi>Norwich.</hi>
+               </item>
+               <item>Dr. <hi>Reynolds,</hi> Archd. of <hi>Norfolk.</hi>
+               </item>
+               <item>Dean of <hi>Ely,</hi> Archd. of <hi>Sudbury.</hi>
+               </item>
+               <item>Dr. <hi>Prideaux,</hi> Archd. of <hi>Suffolk.</hi>
+               </item>
+               <item>Dr. <hi>Eachard, Proc. Cleri.</hi>
+               </item>
+               <item>Mr. <hi>Conauld, Proc. Cleri.</hi>
+               </item>
+            </list>
+            <list>
+               <head>St. ASAPH.</head>
+               <item>Dr. <hi>Bright,</hi> Dean of <hi>St. Aſaph.</hi> Proctor for the Chapter.</item>
+               <item>Biſhop of the Dioceſs, Archdeacon of <hi>St. Aſaph.</hi>
+               </item>
+               <item>Mr. <hi>Lloyd, Proc. Cleri.</hi>
+               </item>
+               <item>Mr. <hi>Edwards, Proc. Cleri.</hi>
+               </item>
+            </list>
+            <list>
+               <head>BATH <hi>and</hi> WELLS.</head>
+               <item>Dr. <hi>Bathurſt,</hi> Dean of <hi>Wells.</hi>
+               </item>
+               <item>Dr. <hi>Busby,</hi> Proctor for the Chapter.</item>
+               <item>Mr. <hi>Sands,</hi> Archd. of <hi>Wells.</hi>
+               </item>
+               <item>Dr. <hi>Sellich,</hi> Archd. of <hi>Bath.</hi>
+               </item>
+               <item>Mr. <hi>Waple,</hi> Archd. of <hi>Taunton.</hi>
+               </item>
+               <item>Mr. <hi>Clement, Proc. Cleri.</hi>
+               </item>
+               <item>Mr. <hi>Pooley, Proc. Cleri.</hi>
+               </item>
+            </list>
+            <list>
+               <head>OXFORD.</head>
+               <item>Dr. <hi>Aldrich,</hi> Dean of <hi>Chriſt's-Church.</hi>
+               </item>
+               <item>Dr. <hi>Smith,</hi> Proctor for the Chapter.</item>
+               <item>Dr. <hi>Halton,</hi> Archdeacon of <hi>Oxon.</hi>
+               </item>
+               <item>Dr. <hi>Maurice, Proc. Cleri.</hi>
+               </item>
+               <item>Dr.<hi>Mills, Proc. Cleri.</hi>
+               </item>
+            </list>
+            <list>
+               <head>HEREFORD.</head>
+               <item>Dr. <hi>Benſon,</hi> Dean. Proctor for the Chapter.</item>
+               <item>Mr. <hi>Samuel Benſon,</hi> Archd. of <hi>Hereford.</hi>
+               </item>
+               <item>Mr. <hi>Oatley.</hi> Archd. of <hi>Salop.</hi>
+               </item>
+               <item>Mr. <hi>Samuel Benſon,</hi> Proc. Cleri.</item>
+               <item>Mr. <hi>Oatley.</hi> Proc. Cleri.</item>
+            </list>
+            <list>
+               <head>ELY.</head>
+               <item>Dr. <hi>Spencer,</hi> Dean of <hi>Ely.</hi>
+               </item>
+               <item>Dr. <hi>Moor,</hi> Proc. Cap.</item>
+               <item>Dr. <hi>Saywell,</hi> Archdeacon of <hi>Ely.</hi>
+               </item>
+               <item>Dr. <hi>Blithe, Proc. Cleri.</hi>
+               </item>
+               <item>Mr. <hi>Gouge, Proc. Cleri.</hi>
+               </item>
+            </list>
+            <list>
+               <head>St. <hi>DAVIDS.</hi>
+               </head>
+               <item>Dr. <hi>Ellis,</hi> Praecentor.</item>
+               <item>Mr. <hi>Lucy,</hi> Proc. Cap.</item>
+               <item>Dr. <hi>Owen,</hi> Archd. of <hi>St. Davids.</hi>
+               </item>
+               <item>Mr. <hi>Staynoe,</hi> Archd. of <hi>Carmarthen.</hi>
+               </item>
+               <item>Dr. <hi>Halton,</hi> Archd. of <hi>Brecknock.</hi>
+               </item>
+               <item>Mr. <hi>Williams,</hi> Archd. of <hi>Cardigan.</hi>
+               </item>
+               <item>Mr. <hi>Sands, Proc. Cleri.</hi>
+               </item>
+               <item>Mr. <hi>Powel, Proc. Cleri.</hi>
+               </item>
+            </list>
+            <list>
+               <head>BRISTOL.</head>
+               <item>Dr. <hi>Levett,</hi> Dean of <hi>Briſtol.</hi>
+               </item>
+               <item>Mr. <hi>Creſpion,</hi> Proctor for the Chapter.</item>
+               <item>Dr. <hi>Fielding,</hi> Archdeacon of <hi>Dorſet.</hi>
+               </item>
+               <item>Dr. <hi>Maunder, Proc. Cleri.</hi>
+               </item>
+               <item>Mr. <hi>Roderick. Proc. Cleri.</hi>
+               </item>
+            </list>
+            <list>
+               <head>BANGOR.</head>
+               <item>Dr. <hi>Jones,</hi> Dean of <hi>Bangor.</hi> Proctor for the Chapter.</item>
+               <item>Bp. of the Church, Archd. of <hi>Bangor.</hi>
+               </item>
+               <item>Bp. of the Church, Archd. of <hi>Angleſey</hi>
+               </item>
+               <item>Mr. <hi>Lloyd,</hi> Archd. of <hi>Merioneth.</hi>
+               </item>
+               <item>Mr. <hi>Williams, Proc. Cleri.</hi>
+               </item>
+               <item>Mr. <hi>Gwynne, Proc. Cleri.</hi>
+               </item>
+            </list>
+            <list>
+               <head>ROCHESTER.</head>
+               <item>Dr. <hi>
+                     <g ref="char:V">Ʋ</g>llock,</hi> Dean of <hi>Rocheſter.</hi>
+               </item>
+               <item>Dr. <hi>Brevall,</hi> Proctor for the Chapter.</item>
+               <item>Dr. <hi>Plume,</hi> Archdeacon of <hi>Rocheſter.</hi>
+               </item>
+               <item>Mr. <hi>Holden, Proc. Cleri.</hi>
+               </item>
+               <item>Mr. <hi>Yates, Proc. Cleri.</hi>
+               </item>
+            </list>
+            <list>
+               <head>CHICHESTER.</head>
+               <item>Dr. <hi>Hawkins,</hi> Dean of <hi>Chicheſter.</hi>
+               </item>
+               <item>Mr. <hi>Patrick,</hi> Proctor for the Chapter.</item>
+               <item>Mr. <hi>Pleydell,</hi> Archd. of <hi>Chicheſter.</hi>
+               </item>
+               <item>Dr. <hi>Sawyer,</hi> Archd. of Lewes.</item>
+               <item>Mr. <hi>May, Proc. Cleri.</hi>
+               </item>
+               <item>Mr. <hi>Richardſon, Proc. Cleri.</hi>
+               </item>
+            </list>
+            <list>
+               <head>PETERBORO<g ref="char:V">Ʋ</g>GH.</head>
+               <item>Dr. <hi>Kidder,</hi> Dean of <hi>Peterborough.</hi>
+               </item>
+               <item>Mr. <hi>Blechindon,</hi> Proctor for the Chapter.</item>
+               <item>Dr. <hi>Wolſeley,</hi> Archdeacon of <hi>Northampt.</hi>
+               </item>
+               <item>Mr. <hi>Hutton, Proc. Cleri.</hi>
+               </item>
+               <item>Mr. <hi>Whaley, Proc. Cleri.</hi>
+               </item>
+            </list>
+            <list>
+               <head>LANDAFF.</head>
+               <item>Dr. <hi>Bull,</hi> Archdeacon of <hi>Landaff. Proc. Cap. Proc. Cleri.</hi>
+               </item>
+            </list>
+            <trailer>Licenſed and Entred according to Order.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON: <hi>Printed for</hi> Jacob Tonſon, <hi>at the</hi> Judges Head <hi>in</hi> Chancery-Lane, <hi>near</hi> Fleetſtreet, 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
